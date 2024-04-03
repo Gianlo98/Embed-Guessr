@@ -1,5 +1,5 @@
 {
-  "name": "embed-guesser",
+  "name": "embed-guessr",
   "version": "0.1.0",
   "private": true,
   "scripts": {
